@@ -9,7 +9,7 @@ body{
     justify-content:center;/*horizonally centered*/
     align-items: center;/*vertically centered*/
     min-height: 100vh;
-    background: url("https://tse3.mm.bing.net/th?id=OIP.gm9Qkm3QKlXezT64-PBG0gHaEK&pid=Api&P=0&h=220");
+    background:linear-gradient(45deg, #d85311,#077dc79d);
     background-repeat: no-repeat;
     background-size: cover; 
 }
